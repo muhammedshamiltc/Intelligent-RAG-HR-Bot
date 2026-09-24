@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+submission.csv
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+*.faiss
+*.pkl
